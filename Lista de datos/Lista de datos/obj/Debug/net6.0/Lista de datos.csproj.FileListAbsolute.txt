@@ -1,0 +1,14 @@
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\bin\Debug\net6.0\Lista de datos.exe
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\bin\Debug\net6.0\Lista de datos.deps.json
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\bin\Debug\net6.0\Lista de datos.runtimeconfig.json
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\bin\Debug\net6.0\Lista de datos.dll
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\bin\Debug\net6.0\Lista de datos.pdb
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\Lista de datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\Lista de datos.AssemblyInfoInputs.cache
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\Lista de datos.AssemblyInfo.cs
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\Lista de datos.csproj.CoreCompileInputs.cache
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\Lista de datos.dll
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\refint\Lista de datos.dll
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\Lista de datos.pdb
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\Lista de datos.genruntimeconfig.cache
+D:\Datos Fredy\Programacion\C#\Lista de datos\Lista de datos\obj\Debug\net6.0\ref\Lista de datos.dll

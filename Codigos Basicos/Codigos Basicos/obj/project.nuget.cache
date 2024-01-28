@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e4REU3DSlLYWVxYkQiPWtAHS52qayRKM+Vw1ke9Edugh3GwGKRtswuMPZKFPJOZ+dqFM3WvIkTnS2DY8fRyMkQ==",
+  "success": true,
+  "projectFilePath": "D:\\Datos Fredy\\Programacion\\C#\\Prueba1\\Prueba1\\Codigos Basicos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fredy\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\fredy\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\fredy\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

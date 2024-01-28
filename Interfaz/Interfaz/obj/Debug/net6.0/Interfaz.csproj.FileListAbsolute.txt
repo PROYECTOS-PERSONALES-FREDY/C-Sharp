@@ -1,0 +1,14 @@
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.exe
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.deps.json
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.runtimeconfig.json
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.dll
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.pdb
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.AssemblyInfoInputs.cache
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.AssemblyInfo.cs
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.csproj.CoreCompileInputs.cache
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.dll
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\refint\Interfaz.dll
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.pdb
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.genruntimeconfig.cache
+D:\Datos Fredy\Programacion\C#\Interfaz\Interfaz\obj\Debug\net6.0\ref\Interfaz.dll

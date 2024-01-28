@@ -1,0 +1,14 @@
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\bin\Debug\net6.0\Pila de Datos.exe
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\bin\Debug\net6.0\Pila de Datos.deps.json
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\bin\Debug\net6.0\Pila de Datos.runtimeconfig.json
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\bin\Debug\net6.0\Pila de Datos.dll
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\bin\Debug\net6.0\Pila de Datos.pdb
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\Pila de Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\Pila de Datos.AssemblyInfoInputs.cache
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\Pila de Datos.AssemblyInfo.cs
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\Pila de Datos.csproj.CoreCompileInputs.cache
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\Pila de Datos.dll
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\refint\Pila de Datos.dll
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\Pila de Datos.pdb
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\Pila de Datos.genruntimeconfig.cache
+D:\Datos Fredy\Programacion\C#\Pila de Datos\Pila de Datos\obj\Debug\net6.0\ref\Pila de Datos.dll

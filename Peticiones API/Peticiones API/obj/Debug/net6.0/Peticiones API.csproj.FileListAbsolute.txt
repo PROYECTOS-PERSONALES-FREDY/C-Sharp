@@ -1,0 +1,17 @@
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.csproj.AssemblyReference.cache
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.AssemblyInfoInputs.cache
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.AssemblyInfo.cs
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.csproj.CoreCompileInputs.cache
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\bin\Debug\net6.0\Peticiones API.exe
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\bin\Debug\net6.0\Peticiones API.deps.json
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\bin\Debug\net6.0\Peticiones API.runtimeconfig.json
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\bin\Debug\net6.0\Peticiones API.dll
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\bin\Debug\net6.0\Peticiones API.pdb
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.csproj.CopyComplete
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.dll
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\refint\Peticiones API.dll
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.pdb
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\Peticiones API.genruntimeconfig.cache
+D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\obj\Debug\net6.0\ref\Peticiones API.dll

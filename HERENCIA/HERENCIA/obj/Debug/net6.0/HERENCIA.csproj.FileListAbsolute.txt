@@ -1,0 +1,14 @@
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\bin\Debug\net6.0\HERENCIA.exe
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\bin\Debug\net6.0\HERENCIA.deps.json
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\bin\Debug\net6.0\HERENCIA.runtimeconfig.json
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\bin\Debug\net6.0\HERENCIA.dll
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\bin\Debug\net6.0\HERENCIA.pdb
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\HERENCIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\HERENCIA.AssemblyInfoInputs.cache
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\HERENCIA.AssemblyInfo.cs
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\HERENCIA.csproj.CoreCompileInputs.cache
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\HERENCIA.dll
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\refint\HERENCIA.dll
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\HERENCIA.pdb
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\HERENCIA.genruntimeconfig.cache
+D:\Datos Fredy\Programacion\C#\HERENCIA\HERENCIA\obj\Debug\net6.0\ref\HERENCIA.dll

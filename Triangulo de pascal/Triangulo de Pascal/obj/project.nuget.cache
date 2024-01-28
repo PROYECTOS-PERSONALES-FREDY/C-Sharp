@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCdzHE0F8y6w4VirXhFCPYiR5yks3csonDRMu3pB6z3Nu/PEsxn4Z/vbyrbjaAIbOeqRMSIjrHfiUwVR4RTi5g==",
+  "success": true,
+  "projectFilePath": "D:\\Datos Fredy\\Programacion\\C#1\\Triangulo de pascal\\Curso de net core\\Curso de net core\\Triangulo de Pascal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fredy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\fredy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\fredy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\fredy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

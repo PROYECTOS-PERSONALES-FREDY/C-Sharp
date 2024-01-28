@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6c/qD9mPHUV4NiHNaLa008MN37HZO+2qbZF9Wjii3nG3BkwMTOVnAZCmtZiT/vM13Y3/VC2zFRxOghfDg5AUw==",
+  "success": true,
+  "projectFilePath": "D:\\Datos Fredy\\Programacion\\C#\\Peticiones API\\Peticiones API\\Peticiones API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fredy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

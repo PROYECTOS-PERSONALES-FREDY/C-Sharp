@@ -1,0 +1,14 @@
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\bin\Debug\net6.0\Cola de datos.exe
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\bin\Debug\net6.0\Cola de datos.deps.json
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\bin\Debug\net6.0\Cola de datos.runtimeconfig.json
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\bin\Debug\net6.0\Cola de datos.dll
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\bin\Debug\net6.0\Cola de datos.pdb
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\Cola de datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\Cola de datos.AssemblyInfoInputs.cache
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\Cola de datos.AssemblyInfo.cs
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\Cola de datos.csproj.CoreCompileInputs.cache
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\Cola de datos.dll
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\refint\Cola de datos.dll
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\Cola de datos.pdb
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\Cola de datos.genruntimeconfig.cache
+D:\Datos Fredy\Programacion\C#\Cola de datos\Cola de datos\obj\Debug\net6.0\ref\Cola de datos.dll
