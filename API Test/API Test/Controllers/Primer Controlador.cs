@@ -46,8 +46,6 @@ namespace API_Test.Controllers
             return respuesta;
         }
 
-
-
         //Post
 
         public class UsuarioP
@@ -62,20 +60,20 @@ namespace API_Test.Controllers
             return JsonConvert.SerializeObject(usuario);
         }
 
-        //Patch
+        ////Patch
 
-        [HttpPatch("UpdateUser")] //Se usa para actualizar informacion dentro de la base de datos
-        public string Patch(UsuarioP usuario)
-        {
-            return "Se actualizo el usuario correctamente";
-        }
+        //[HttpPatch("UpdateUser")] //Se usa para actualizar informacion dentro de la base de datos
+        //public string Patch(UsuarioP usuario)
+        //{
+        //    return "Se actualizo el usuario correctamente";
+        //}
 
-        //Delete
+        ////Delete
 
-        [HttpDelete("PostUser")] //Se usa para eliminar informacion dentro de la base de datos
-        public string Delete(int idusuario)
-        {
-            return "Se elimino el usuario correctamente";
-        }
+        //[HttpDelete("PostUser")] //Se usa para eliminar informacion dentro de la base de datos
+        //public string Delete(int idusuario)
+        //{
+        //    return "Se elimino el usuario correctamente";
+        //}
     }
 }
