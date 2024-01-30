@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cola de datos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36ea172d2309321f18729478a889a94fbfcff66d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cola de datos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cola de datos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

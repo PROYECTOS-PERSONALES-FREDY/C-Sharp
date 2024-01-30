@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Peticiones API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TrianguloPascal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36ea172d2309321f18729478a889a94fbfcff66d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Peticiones API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Peticiones API")]
+[assembly: System.Reflection.AssemblyProductAttribute("TrianguloPascal")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TrianguloPascal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
