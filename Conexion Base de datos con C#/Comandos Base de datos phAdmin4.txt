@@ -1,0 +1,29 @@
+
+
+// Seleccion de datos
+
+select * from public.usuarios //El * Significa seleccionar todos los datos
+select nombre, edad from public.usuarios //Se utiliza solo para ver nombre y edad
+select * from public.usuarios where nombre = 'Luis' //... donde nombre sea igual a luis
+select * from public.usuarios where nombre <> 'Luis' //... donde nombre sea diferente de luis
+select * from public.usuarios where edad > 27
+select * from public.usuarios where nombre like '%ra' //... donde nombre termina en la palabra ra
+select * from public.usuarios where nombre like 'Ra%' //... donde nombre empieza en la palabra Ra
+select * from public.usuarios where nombre like '%au%' order by edad ASC//... donde nombre tiene au ordenados de menor a mayor edad
+select * from public.usuarios where nombre like '%au%' order by edad DESC //... donde nombre tiene au ordenados de mayor a menor edad
+
+// Insercion de datos
+
+insert into public.usuarios(nombre, edad) VALUES ('Luis',26) //Insertar archivos a la base de datos
+
+// Eliminar usuarios
+
+delete from public.usuarios where id_usuario = 1; //Eliminar usuario con condicion si no se pone condicion se borra toda la base de datos
+
+//Actualizara datos
+
+update public.usuarios set nombre = 'Isabel Gonzales' where nombre = 'roberto' 
+
+//Cambiar contraseña
+
+ALTER USER postgress WITH PASSWORD '123;

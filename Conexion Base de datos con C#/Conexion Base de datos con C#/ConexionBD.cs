@@ -15,7 +15,7 @@ namespace Conexion_Base_de_datos_con_C_
 
         public ConexionBD() //Conexion con base de datos
         {
-            conn = new NpgsqlConnection("Server = localhost; Port =5432; User Id = postgres; Password =250436; Database = Ejemplo1");
+            conn = new NpgsqlConnection("Server = localhost; Port =5432; User Id = postgres; Password =123; Database = Ejemplo1");
         }
 
         public NpgsqlConnection Abrir_Conexion()
