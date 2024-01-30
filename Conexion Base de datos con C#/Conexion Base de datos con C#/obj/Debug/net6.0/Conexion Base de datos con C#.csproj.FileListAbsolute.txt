@@ -1,0 +1,24 @@
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Conexion Base de datos con C#.exe
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Conexion Base de datos con C#.deps.json
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Conexion Base de datos con C#.runtimeconfig.json
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Conexion Base de datos con C#.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Conexion Base de datos con C#.pdb
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\Npgsql.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\System.Text.Json.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.csproj.AssemblyReference.cache
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.AssemblyInfoInputs.cache
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.AssemblyInfo.cs
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.csproj.CoreCompileInputs.cache
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.sourcelink.json
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.csproj.CopyComplete
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\refint\Conexion Base de datos con C#.dll
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.pdb
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\Conexion Base de datos con C#.genruntimeconfig.cache
+D:\Datos Fredy\Programacion\C#\Conexion Base de datos con C#\Conexion Base de datos con C#\obj\Debug\net6.0\ref\Conexion Base de datos con C#.dll
