@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Peticiones_API
-build_property.ProjectDir = D:\Datos Fredy\Programacion\C#\Peticiones API\Peticiones API\
+build_property.ProjectDir = D:\Programacion GIT\C-Sharp\Peticiones API\Peticiones API\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
