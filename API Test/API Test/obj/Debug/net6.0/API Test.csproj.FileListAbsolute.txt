@@ -31,3 +31,4 @@ D:\Datos Fredy\Programacion\C#\API Test\API Test\obj\Debug\net6.0\API Test.pdb
 D:\Datos Fredy\Programacion\C#\API Test\API Test\obj\Debug\net6.0\API Test.genruntimeconfig.cache
 D:\Datos Fredy\Programacion\C#\API Test\API Test\obj\Debug\net6.0\ref\API Test.dll
 D:\Datos Fredy\Programacion\C#\API Test\API Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Datos Fredy\Programacion\C#\API Test\API Test\obj\Debug\net6.0\API Test.sourcelink.json
