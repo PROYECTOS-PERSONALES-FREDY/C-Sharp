@@ -1,0 +1,140 @@
+1. Eliminar Wheather forecast
+2. Crear Clase en controller
+3. Crear carpeta:
+	ConexionBD
+	DatosObjeto
+	Logica
+
+4. Crear archivos dentro de carpetas con nombres diferentes
+5. Añadir pegado especial datos como json
+6. Crear tabla en BD pgAdmin: 
+	Registro interger primary key
+	Resto de datos character varing o big int
+
+7. Dentro de la carpeta ConexionBD, insetar libreria Npgsql
+
+public class ClaseConexion
+{
+    string servidor = "localhost";
+    string baseDatos = "PruebaTrabajo1";
+    string usuario = "postgres";
+    string passWord= "250436";
+    string puerto = "5432";
+
+    public bool InsertarDatos(Rootobject persona /*llamar la clase principal de los datos*/)
+    {
+        try { 
+            string cadenaConexion = $"Server = {servidor}; Port = {puerto}; User Id = {usuario}; Password = {passWord}; Database = {baseDatos}";
+            NpgsqlConnection conexion = new NpgsqlConnection(cadenaConexion);
+            conexion.Open();
+            string SqlInsercion =   $"insert into public.\"Cliente\" (\"Cedula\",\"Nombre\",\"Apellido\",\"Edad\")" +
+                                    $"values ('{persona.persona.cedula}','{persona.persona.nombre}','{persona.persona.apellido}',{persona.persona.edad})";
+
+            NpgsqlCommand command = new NpgsqlCommand(SqlInsercion, conexion);
+            command.ExecuteNonQuery();
+            conexion.Close();
+
+            return true;
+        }
+        catch (Exception ex)
+        {
+            return false;
+        }
+
+    }
+}
+
+8. Dentro de la carpeta logica se realiza la logica del codigo xd
+
+	8.1. try catch para errores
+	8.2. crear un if para evaluar fallas en el codigo
+	8.3. crear el vector para realizar las validaciones
+	8.4. Crear llamar a la clase con la conexion a la base de datos, inicializar un objeto
+	
+
+public class Metodo
+{
+    public string[] Procesarobjeto(Rootobject persona)
+    {   
+        ClaseConexion conexion = new ClaseConexion();
+        string[] Validaciones = new string[2];
+
+        try { 
+            if (persona == null)
+                {
+                Validaciones[0] = "false";
+                Validaciones[1] = "Objeto Vacio";
+                return Validaciones;
+                }
+            else
+                {
+                bool InsersionPersona = conexion.InsertarDatos(persona);
+
+                if (InsersionPersona)
+                {
+                    Validaciones[0] = "true";
+                    Validaciones[1] = "Enviado Correctamente";
+                    return Validaciones;
+                }
+                else
+                {
+                    Validaciones[0] = "false";
+                    Validaciones[1] = "No se puedo guardar informacion";
+                    return Validaciones;
+                }
+                
+            }
+
+        }
+   
+            
+        catch (Exception ex) {
+            Validaciones[0] = "false";
+            Validaciones[1] = $"Error [{ex.ToString()}]";
+            return Validaciones;
+        }
+
+
+
+    }
+}
+
+9. Operador Get
+
+Metodo Get 
+
+[HttpGet("Validar Servicio")]
+public dynamic ValidarServicio()
+{
+    string servicio = string.Empty;
+    servicio = "Servicio Funcionando";
+    return new //Objeto
+    { 
+        servicio = servicio,
+        estadoServicio = 200
+    };
+}
+
+
+10. Metodo Post
+
+[HttpPost("EnvioPersonaCarro")]
+
+public dynamic EnvioPersona([FromBody] Rootobject persona) //Importante FromBody
+{
+    Metodo metodos = new Metodo(); // objeto de logica
+	
+    string[] DatosEstado = new string[2];
+	
+    DatosEstado = metodos.Procesarobjeto(persona);
+
+    bool estado = Convert.ToBoolean(DatosEstado[0]); // se vuelve booleando
+    string confirmacion = DatosEstado[1];
+
+    return new
+    {
+        Estatus = estado,
+        Confirmacion = confirmacion
+
+    };
+}
